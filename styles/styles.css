@@ -2731,8 +2731,8 @@ left: 0;
 }
 
 .fullscreen-caption > *{
-margin-left: 0;
-padding-left: 30px;
+	margin-left: 0;
+	padding-left: 0px;
 }
 
 .fullscreen-caption h1{
